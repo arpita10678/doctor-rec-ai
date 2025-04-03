@@ -12,7 +12,7 @@ The **AI-Powered Doctor Recommendation Tool** helps users identify the appropria
 - ✅ **Future-Ready** – Can integrate with **wearables, telemedicine platforms, and electronic health records (EHRs)**.
 
 ## 🏗️ Tech Stack
-- **Frontend:** Flutter (Planned Integration)
+- **Frontend:** HTML, CSS
 - **Backend:** Node.js (Express.js)
 - **AI Model:** OpenAI GPT-3/4
 - **Database:** (Not implemented yet, but can use MongoDB/PostgreSQL for future enhancements)
